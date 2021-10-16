@@ -1,5 +1,5 @@
 # Alzheimers-Project
-I used this code to scrape data about Alzheimer's disease for different states and create one dataset containing all the information. 
+I used this code to scrape data about Alzheimer's disease and population for different states. I then created one dataset containing all the information. 
 
 ## Data Sources
 #### Alzheimers data
